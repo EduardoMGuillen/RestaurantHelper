@@ -1,5 +1,5 @@
 # RestaurantHelper
-This tool helps restaurants add customer consumption, built-in calculator and makes invoices.
+This tool helps restaurants add customer consumption, built-in calculator and generate and save invoices.
 
 # What I Learned
 * TKinter library and use cases
